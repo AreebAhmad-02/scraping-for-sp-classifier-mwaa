@@ -1,1 +1,0 @@
-print("hello world from test2.py")
